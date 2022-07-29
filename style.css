@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
-.aa{
-    color: hsl(238, 29%, 16%);
-    color: hsl(14, 88%, 65%);
-    color: hsl(273, 75%, 66%);
-    color: hsl(240, 73%, 65%);
-    color: hsl(237, 12%, 33%);
-    color: hsl(240, 6%, 50%);
-    color: hsl(240, 5%, 91%);
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -27,7 +17,7 @@ body {
 }
 
 main {
-    background-color: hsl(240, 5%, 91%);
+    background-color: white;
     width: calc(1440px - 2 * (1440px - 1200px));
     height: calc(768px - 2 * (768px - 640px));
     border-radius: 20px;
@@ -76,7 +66,7 @@ h1 {
 }
 
 button {
-    background-color: hsl(240, 5%, 91%);
+    background-color: white;
     border: none;
     color: hsl(237, 12%, 33%);
     font-weight: 400;
